@@ -4,7 +4,7 @@ ___
 > - Express
 > - React
 > - Node
-> - GraphQL(Apollo)
+> - GraphQL (Apollo)
 > - Semantic UI
 
 - **What is GraphQL?**  
