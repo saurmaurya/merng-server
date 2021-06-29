@@ -1,7 +1,6 @@
 # **The Tech Stack**
 ___
 > - MongoDB (Atlas)
-> - Express
 > - React
 > - Node
 > - GraphQL (Apollo)
